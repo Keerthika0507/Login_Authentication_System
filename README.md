@@ -1,1 +1,1 @@
-# Login_Authentication_System
+A Login Authentication System is a security mechanism designed to verify the identity of users before granting access to a system, website, or application. Its primary goal is to ensure that only authorized individuals can access protected resources or perform sensitive actions.
